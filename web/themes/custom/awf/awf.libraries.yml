@@ -36,6 +36,12 @@ showmore:
   js:
     src/js/includes/show-more.js: {}
 
+wildlife-grid:
+  version: 1.0
+  js:
+    src/js/includes/isotope.pkgd.min.js: {}
+    src/js/includes/wildlife-grid.js: {}
+
 wherewework:
   version: 1.0
   css:
